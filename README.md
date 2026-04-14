@@ -4,7 +4,7 @@ Why more countries will build the bomb.
 # Nuclear Weapon Proliferation
 
 ## Preview
-<img width="723" height="431" alt="Nuclear_Weapons_Capabilites_Map" src="https://github.com/user-attachments/assets/23ac1b8b-0baf-4104-8093-bd14f2d7f9e4" />
+<img width="1091" height="659" alt="Nuclear_Weapons_Capabilites_Map" src="https://github.com/user-attachments/assets/d009c1fe-15de-49b2-8f28-dce78fac1d3c" />
 <img width="1043" height="584" alt="Nuclear_Warheads_Counts" src="https://github.com/user-attachments/assets/6ff8a707-eca9-4e02-8a04-de569a2644be" />
 
 [Observable link](https://observablehq.com/@nbm/nuclear-weapon-decentralization) 
